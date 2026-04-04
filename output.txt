@@ -1,0 +1,2 @@
+Enter a Number: 
+Given number 88 is not prime.
